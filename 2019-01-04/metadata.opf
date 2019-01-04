@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54a35605-c0e0-4767-8b39-10c36916b058</dc:identifier>
+        <dc:title>MIT Technology Review Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-04T03:45:01.472933+00:00</dc:date>
+        <dc:description>本期文章:
+
+The China issue
+
+China’s tech giants want to go global. Just one thing might stand in their way.
+
+Inside Shenzhen’s race to outdo Silicon Valley
+
+China has never had a real chip industry. Making AI chips could change that.
+
+Aboard the giant sand-sucking ships that China uses to reshape the world
+
+China’s losing its taste for nuclear power. That’s bad news.
+
+China’s giant transmission grid could be the key to cutting climate emissions
+
+The man turning China into a quantum superpower
+
+Years before CRISPR babies, this man was the first to edit human embryos
+
+Science vs. the state: a family saga at the Caltech of China
+
+How Google took on China—and lost
+
+The Reunion: a new science-fiction story about surveillance in China
+
+China’s tech boom has inspired a wave of internet-related art
+
+Why China’s electric-car industry is leaving Detroit, Japan, and Germany in the dust
+
+A short drive across the Pacific
+
+China is racing ahead in 5G. Here’s what that means.
+
+China vs. the US: Who wins and who loses
+
+China launched more rockets into orbit in 2018 than any other country
+
+How China got a head start in fintech, and why the West won’t catch up
+
+The US and China aren’t in a “cold war,” so stop calling it that
+
+Bi-monthly magazine version of MIT Technology Review. This is different than the recipe named simply "Technology Review" which downloads the rss feed with daily articles from the website.</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f978812b-5577-4c83-8ea0-6c242a5213cb</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>MIT Technology Review Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-04T03:45:10.385710+00:00" name="calibre:timestamp"/>
+        <meta content="MIT Technology Review Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
