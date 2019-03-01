@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">738e6d9e-a229-4de9-a5ca-acd99704d662</dc:identifier>
+        <dc:title>MIT Technology Review Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-01T00:49:48.419649+00:00</dc:date>
+        <dc:description>本期文章:
+
+10 Breakthrough Technologies 2019
+
+One man’s two-decade quest to suck greenhouse gas out of the sky
+
+Wristwatch heart monitors might save your life—and change medicine, too
+
+The race to grow a more planet-friendly burger
+
+The new, safer nuclear reactors that might help stop climate change
+
+A simple blood test to predict premature births could save babies’ lives
+
+AI is reinventing the way we invent
+
+A philosopher argues that an AI can’t be an artist
+
+What if you could diagnose diseases with a tampon?
+
+This is why AI has yet to reshape most businesses
+
+Bill Gates explains why we should all be optimists
+
+10 of Bill Gates’s favorite books about technology
+
+Ten big global challenges technology could solve
+
+Ten recent low-tech inventions that have changed the world
+
+How AlphaZero has rewritten the rules of game play on its own
+
+Why drones often aren’t the solution to developing-world problems
+
+The 10 worst technologies of the 21st century
+
+Bi-monthly magazine version of MIT Technology Review. This is different than the recipe named simply "Technology Review" which downloads the rss feed with daily articles from the website.</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3d6a016b-189b-4964-80f5-f259d0880541</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>MIT Technology Review Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-01T00:49:55.872360+00:00" name="calibre:timestamp"/>
+        <meta content="MIT Technology Review Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
