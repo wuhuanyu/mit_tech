@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fa22819-4541-4c71-9f52-4efce1d9099b</dc:identifier>
+        <dc:title>MIT Technology Review Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-26T10:15:51.094723+00:00</dc:date>
+        <dc:description>本期文章:
+
+Welcome to climate change
+
+How greed and corruption blew up South Korea’s nuclear industry
+
+The desperate race to cool the ocean before it’s too late
+
+The one number you need to know about climate change
+
+The American Midwest will feed a warming world. But for how long?
+
+Inside Australia’s plan to survive bigger, badder bushfires
+
+India’s surging economy could doom climate efforts—unless richer nations step up
+
+Lessons from a genocide can prepare humanity for climate apocalypse
+
+India’s water crisis is already here. Climate change will compound it.
+
+A Full Life
+
+The “mind-boggling” task of protecting New York City from rising seas
+
+Why seaweed is strangling Mexican tourism, and how science could help
+
+The accident that led to the discovery of climate-change-proof coffee
+
+What one woman’s quest to save her neighbors reveals about climate resilience
+
+How do cow herders spot water in the Sahara? With satellites, of course.
+
+The economic argument behind the Green New Deal
+
+Get ready for tens of millions of climate refugees
+
+A powerful new model could make global warming estimates less vague
+
+Our planetary health report card looks really grim
+
+Bi-monthly magazine version of MIT Technology Review. This is different than the recipe named simply "Technology Review" which downloads the rss feed with daily articles from the website.</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae5b9e0a-0ea1-48d5-93e1-d5af5c52991f</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>MIT Technology Review Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-26T10:15:53.566744+00:00" name="calibre:timestamp"/>
+        <meta content="MIT Technology Review Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
