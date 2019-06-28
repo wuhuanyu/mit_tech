@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84f991b4-d691-4111-a621-c4f2449faad7</dc:identifier>
+        <dc:title>MIT Technology Review Magazine</dc:title>
+        <dc:creator opf:file-as="MIT Technology Review" opf:role="aut">MIT Technology Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-28T00:35:51.022287+00:00</dc:date>
+        <dc:description>本期文章:
+
+The space issue
+
+What Neil Armstrong got wrong
+
+Five schemes for cheaper space launches—and five cautionary tales
+
+Does the world need a 3D-printed rocket?
+
+Can SpaceX and Blue Origin best a decades-old Russian rocket engine design?
+
+The number of satellites orbiting Earth could quintuple in the next decade
+
+Soon, satellites will be able to watch you everywhere all the time
+
+How to fight a war in space (and get away with it)
+
+Who gets to send radio waves in space?
+
+All the new Mars missions being launched in 2020
+
+The case for sending people back to the moon
+
+The world’s smallest big rocket company
+
+How the asteroid-mining bubble burst
+
+Inside Starshot, the audacious plan to shoot tiny ships to Alpha Centauri
+
+The write stuff: ten of the best astronaut memoirs
+
+The NASA engineers struggling to build a better heat shield
+
+How music about space became music about drugs
+
+Where does space begin?
+
+In her light: space fiction
+
+Bi-monthly magazine version of MIT Technology Review. This is different than the recipe named simply "Technology Review" which downloads the rss feed with daily articles from the website.</dc:description>
+        <dc:publisher>MIT Technology Review</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>MIT Technology Review Magazine</dc:subject>
+        <meta content="{&quot;MIT Technology Review&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-28T00:35:52.704213+00:00" name="calibre:timestamp"/>
+        <meta content="MIT Technology Review Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
