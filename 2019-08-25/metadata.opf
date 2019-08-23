@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32f6aaa1-5c7a-4eb9-8604-14e318c5608b</dc:identifier>
+        <dc:title>MIT Technology Review Magazine</dc:title>
+        <dc:creator opf:file-as="MIT Technology Review" opf:role="aut">MIT Technology Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-23T00:08:14.538553+00:00</dc:date>
+        <dc:description>本期文章:
+
+The longevity issue
+
+Why you shouldn’t fear the gray tsunami
+
+Meet the next generation of entrepreneurs. They’re all over 65.
+
+What if aging weren’t inevitable, but a curable disease?
+
+“Old age” is made up—and this concept is hurting everyone
+
+Young pioneers on their hopes for technology, and older trailblazers on their regrets
+
+Why are products for older people so ugly?
+
+The transhumanists who want to live forever
+
+I tried Prolon’s starvation diet so you wouldn’t have to
+
+Don’t count on having kids if you freeze your eggs
+
+Has this scientist finally found the fountain of youth?
+
+The anti-aging drug that’s just around the corner
+
+A doctor and medical ethicist argues life after 75 is not worth living
+
+Longer, healthier lives will spark a new generational conflict
+
+Health-care costs are soaring, but don’t blame old people
+
+I’ll have you know
+
+The topic of longevity takes after its name
+
+Bi-monthly magazine version of MIT Technology Review. This is different than the recipe named simply "Technology Review" which downloads the rss feed with daily articles from the website.</dc:description>
+        <dc:publisher>MIT Technology Review</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>MIT Technology Review Magazine</dc:subject>
+        <meta content="{&quot;MIT Technology Review&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-23T00:08:16.295797+00:00" name="calibre:timestamp"/>
+        <meta content="MIT Technology Review Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
